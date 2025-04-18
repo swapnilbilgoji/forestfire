@@ -29,41 +29,6 @@ Forest fires are a global concern, causing significant environmental and economi
    git clone https://github.com/swapnilbilgoji/forestfire.git
    cd forestfire
 
-Here's a basic structure for your project's README file. You can customize it further to better suit your needs:
-
-```markdown
-# Forest Fire Prediction Project
-
-This repository contains a project focused on predicting forest fires using machine learning techniques. The project is implemented primarily in Jupyter Notebook.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Forest fires are a global concern, causing significant environmental and economic damage. This project leverages machine learning to predict forest fires based on environmental and meteorological data.
-
-## Features
-
-- Data preprocessing and visualization
-- Machine learning model for prediction
-- Evaluation of model performance
-- Interactive Jupyter Notebook for exploration
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/swapnilbilgoji/forestfire.git
-   cd forestfire
-   ```
-
 2. Set up a Python virtual environment:
    ```bash
    python -m venv env
@@ -107,6 +72,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-Make sure to adjust the content to reflect the specific details of your project, such as the purpose, features, and any additional setup or usage instructions. If you'd like, I can assist in further refining it!
-   
